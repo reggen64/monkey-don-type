@@ -5,3 +5,6 @@ typing speed and can also adjust the time of session.
 
 
 Insert the location of chromedrive in your device inside `""` in `s=Service("")` .
+
+
+If you are interested, you can code in the login credentials of your monkeytype account and also adject the chrome session as needed
